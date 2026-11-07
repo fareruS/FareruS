@@ -1,6 +1,6 @@
 <!-- ============================================================
-  GitHub Profile README - Muhammad Fahriel (@Farerudesu)
-  Paste seluruh isi file ini ke repo: Farerudesu/Farerudesu → README.md
+  GitHub Profile README - Muhammad Fahriel (@fareruS)
+  Paste seluruh isi file ini ke repo: fareruS/fareruS → README.md
 ============================================================ -->
 
 <!-- ===== Header Banner (capsule-render) ===== -->
@@ -31,20 +31,20 @@ Most of my projects start the same way: I run into something inconvenient on my 
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**WireShift**](https://github.com/Farerudesu/WireShift) | `C#` · `WinDivert` | Routes specific Windows apps to specific network interfaces (e.g. one app via VPN, the rest on Ethernet) - transparent packet-level routing, no VMs or proxy chains |
-| [**EzTrimr**](https://github.com/Farerudesu/EzTrimr) | `Python` · `FFmpeg` | No-nonsense video & audio trimmer for quick, lossless cuts - no heavy timeline editor needed |
-| [**vibetrip-ai-trip-curation**](https://github.com/Farerudesu/vibetrip-ai-trip-curation) | `TypeScript` | AI-assisted travel curation web app - personalized itineraries based on atmosphere & pace |
-| [**isp-load-balance**](https://github.com/Farerudesu/isp-load-balance) | `JavaScript` | Distributes traffic across multiple ISP connections to keep bandwidth stable when one line drops |
+| [**WireShift**](https://github.com/fareruS/WireShift) | `C#` · `WinDivert` | Routes specific Windows apps to specific network interfaces (e.g. one app via VPN, the rest on Ethernet) - transparent packet-level routing, no VMs or proxy chains |
+| [**EzTrimr**](https://github.com/fareruS/EzTrimr) | `Python` · `FFmpeg` | No-nonsense video & audio trimmer for quick, lossless cuts - no heavy timeline editor needed |
+| [**vibetrip-ai-trip-curation**](https://github.com/fareruS/vibetrip-ai-trip-curation) | `TypeScript` | AI-assisted travel curation web app - personalized itineraries based on atmosphere & pace |
+| [**isp-load-balance**](https://github.com/fareruS/isp-load-balance) | `JavaScript` | Distributes traffic across multiple ISP connections to keep bandwidth stable when one line drops |
 
 <details>
 <summary><b>More projects & coursework</b></summary>
 <br>
 
-- [**world-university-ranking-data-analysis**](https://github.com/Farerudesu/world-university-ranking-data-analysis) - EDA on what drives global university rankings (`Jupyter`)
-- [**youtube-downloader-api**](https://github.com/Farerudesu/youtube-downloader-api) - REST API for YouTube MP4/MP3 streams (`TypeScript` · `Express` · `ffmpeg`)
-- [**Minpro-5-PBO-PersonalSubscriptionTracker**](https://github.com/Farerudesu/Minpro-5-PBO-PersonalSubscriptionTracker) - OOP subscription tracker (`Java`)
-- [**Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop**](https://github.com/Farerudesu/Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop) - rental & sales system for a custom guitar shop (`Java`)
-- [**Program-Manajemen-Projek-Multimedia**](https://github.com/Farerudesu/Program-Manajemen-Projek-Multimedia) - project & workflow tool for multimedia production (`Python`)
+- [**world-university-ranking-data-analysis**](https://github.com/fareruS/world-university-ranking-data-analysis) - EDA on what drives global university rankings (`Jupyter`)
+- [**youtube-downloader-api**](https://github.com/fareruS/youtube-downloader-api) - REST API for YouTube MP4/MP3 streams (`TypeScript` · `Express` · `ffmpeg`)
+- [**Minpro-5-PBO-PersonalSubscriptionTracker**](https://github.com/fareruS/Minpro-5-PBO-PersonalSubscriptionTracker) - OOP subscription tracker (`Java`)
+- [**Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop**](https://github.com/fareruS/Sistem-Manajemen-Rental-Penjualan-Toko-Gitar-Custom-Shop) - rental & sales system for a custom guitar shop (`Java`)
+- [**Program-Manajemen-Projek-Multimedia**](https://github.com/fareruS/Program-Manajemen-Projek-Multimedia) - project & workflow tool for multimedia production (`Python`)
 
 </details>
 
@@ -71,16 +71,16 @@ Most of my projects start the same way: I run into something inconvenient on my 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farerudesu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farerudesu&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fareruS&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareruS&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Farerudesu&theme=github-dark&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=fareruS&theme=github-dark&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farerudesu&style=flat-square&color=1f6feb" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fareruS&style=flat-square&color=1f6feb" alt="Profile Views" />
 </p>
 
 ---
@@ -88,9 +88,9 @@ Most of my projects start the same way: I run into something inconvenient on my 
 ## Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farerudesu/Farerudesu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Farerudesu/Farerudesu/output/github-snake.svg" />
-  <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/Farerudesu/Farerudesu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fareruS/fareruS/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fareruS/fareruS/output/github-snake.svg" />
+  <img alt="Snake animation eating contributions" src="https://raw.githubusercontent.com/fareruS/fareruS/output/github-snake-dark.svg" />
 </picture>
 
 <!-- To activate the snake: commit the file .github/workflows/snake.yml from the
